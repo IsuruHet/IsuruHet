@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Isuru Hettiarachchi, a passionate software dev
 ## About Me
 
 - 🎓 ICT student at Sri Jayewardenepura University
-- 💻 Skilled in Java, Python, JavaScript, Node.js, React, and more
+- 💻 Skilled in Java, Python, JavaScript, Node.js, React, Kotlin and more
 - 🌐 Experienced in building scalable web and mobile applications
 - 🚀 Constantly learning and exploring new technologies
 - 🌱 Currently diving into the world of AI and machine learning
